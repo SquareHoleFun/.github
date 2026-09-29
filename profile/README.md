@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SquareHole69420/.github/main/profile/banner.png" alt="Square Hole. Different shapes. Same hole." width="100%">
+  <img src="https://raw.githubusercontent.com/SquareHoleFun/.github/main/profile/banner.png" alt="Square Hole. Different shapes. Same hole." width="100%">
 </p>
 
 **Square Hole** is a place for NFT collections on Ethereum. Every collection sits in its own box, an on-chain vault,
@@ -9,4 +9,4 @@ development; nothing here is an offer or advice.
 
 [squarehole.fun](https://squarehole.fun) · [squarehole.xyz](https://squarehole.xyz) · [squarehole.fit](https://squarehole.fit)
 
-Logos, colours and the brand guide are in the [**branding**](https://github.com/SquareHole69420/branding) repository.
+Logos, colours and the brand guide are in the [**branding**](https://github.com/SquareHoleFun/branding) repository.
